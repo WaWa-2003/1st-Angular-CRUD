@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-color: lightgray;
+}
+
+.card-header{
+    background-color: white !important;
+}
+
+.card{
+    margin-bottom: 2rem;
+}
+
+.card-footer button{
+    margin: 1%
+}
